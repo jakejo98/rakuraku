@@ -1,0 +1,9 @@
+table {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.video_box {
+  padding: 0px 70px;
+  margin-bottom: 40px;
+}
